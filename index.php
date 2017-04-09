@@ -30,7 +30,7 @@
 </form>
 
 <?php
-print("<h1>Hello {$forename} {$surname}</h1>");
+print "<h1>Hello {$forename} {$surname}</h1>";
 ?>
 
 </body>
