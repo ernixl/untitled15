@@ -7,7 +7,7 @@
     $hero = $_POST["superhero"];
     $gender = $_POST["gender"];
 
-    echo "my name is"."$name" . " " . "$surname".""."and my main superhero power is".""."$hero.".""."I am $gender"
+    echo "my name is $name" . " " . "$surname".""." and my main superhero power is $hero. ".""."I am $gender"
     ?>
 </head>
 <body>
