@@ -11,9 +11,9 @@
     <form action="formResponse.php" method="post"
 </form>
 <label forename</label>
-<input type="text" name="forename">
+<input type="text" value="forename" name="forename">
 <label Surname</label>
-<input type="text" name="surname">
+<input type="text" value="surname" name="surname">
 <input type="submit" value="Submit">
 </form>
 </body>
