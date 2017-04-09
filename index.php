@@ -10,10 +10,12 @@
 
     <form action="formResponse.php" method="post"
 </form>
-<label forename</label>
-<input type="text" value="forename" name="forename">
-<label Surname</label>
-<input type="text" value="surname" name="surname">
+Name: <input type="text" name="name">
+Surnname: <input type="text" name="surname">
+Main Superhero Power: <input type="text" name="superhero">
+Gender: <input type="radio" name="gender" value="female">female
+        <input type="radio" name="gender" value="male">male
+
 <input type="submit" value="Submit">
 </form>
 </body>
