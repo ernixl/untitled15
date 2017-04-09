@@ -10,11 +10,11 @@
 
     <form action="formResponse.php" method="post"
 </form>
-Name: <input type="text" name="name">
-Surnname: <input type="text" name="surname">
-Main Superhero Power: <input type="text" name="superhero">
+Name: <input type="text" name="name"><br>
+Surnname: <input type="text" name="surname"><br>
+Main Superhero Power: <input type="text" name="superhero"><br>
 Gender: <input type="radio" name="gender" value="female">female
-        <input type="radio" name="gender" value="male">male
+        <input type="radio" name="gender" value="male">male<br>
 
 <input type="submit" value="Submit">
 </form>
