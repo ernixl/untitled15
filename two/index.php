@@ -1,7 +1,7 @@
-<! DOCTYPE ht ml >
+<! DOCTYPE html >
 <html>
 <head>
-    Hello Earth!
+
 </head>
 <body>
 
