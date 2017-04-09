@@ -3,7 +3,7 @@
 <head>
 </head>
 <form>
-    <a href="helloselector.php">He sel</a>
+    <a href="helloselector.php">Hello selector</a>
 
     <form action=""></form>
     <label for=""></label>
