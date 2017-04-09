@@ -2,14 +2,7 @@
 <html>
 <head>
 </head>
-<form>
-    <a href="helloselector.php">Hello selector</a>
 
-    <form action=""></form>
-    <label for=""></label>
-
-    <form action="formResponse.php" method="post"
-</form>
 <p>
     <?php
     if ($_SERVER["REQUEST_METHOD"] == "POST") {
