@@ -11,6 +11,7 @@
     <form action="formResponse.php" method="post"
 </form>
 <p>
+<form action="formResponse.php" method="post">
 Name: <input type="text" name="name"><br>
 </p>
 <p>
